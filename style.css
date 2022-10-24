@@ -12,7 +12,6 @@ body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-
 header {
     display: flex;
     background-color: #eaeaea;
@@ -24,34 +23,38 @@ header {
 ul {
     display: flex;
     margin-right: 50px;
-    
-    
 }
 
 li {
     list-style: none;
     margin-right: 15px;
+    border-bottom: 1px solid #ff3b3f;
     display: inline;
     height: 100px;
     color: #ff3b3f;
     cursor: pointer;
-    
 }
 
-h1 {
+.name {
     background-color: #caebf2;
     padding: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: var(--carbon); font-size: 40px ;
     display: flex;
-    
+    align-items: center;
 }
 
 .h1 img {
-    margin-right: 0%;
-    background-color: #caebf2;
+    border-radius: 50px;
 }
 
 a {
     text-decoration: none;
 }
+
+/*#hero {
+   background-position: center;
+   background-size: cover;
+   
+}*/
+
