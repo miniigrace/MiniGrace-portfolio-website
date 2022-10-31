@@ -8,12 +8,15 @@
 
 }
 body {
+    display: flex;
+    flex-wrap: wrap;
     background-color: #efefef;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 header {
     display: flex;
+    flex-wrap: wrap;
     background-color: #eaeaea;
     height: 150px;
     align-items: center;
@@ -23,6 +26,7 @@ header {
 ul {
     display: flex;
     margin-right: 50px;
+    text-align: end;
 }
 
 li {
@@ -40,8 +44,10 @@ li {
     padding: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: var(--carbon); font-size: 40px ;
+    
+    text-align: center;
     display: flex;
-    align-items: center;
+    flex-wrap: wrap;
 }
 
 .h1 img {
@@ -52,9 +58,47 @@ a {
     text-decoration: none;
 }
 
-/*#hero {
-   background-position: center;
-   background-size: cover;
+#hero {
+   width: 100%;
+    height: 70vh;
+/*}
+.container img { */
+    background-image: linear-gradient(rgba(0,0,0,0.7),transparent),url(Assets/bg.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
    
-}*/
+}
 
+.aboutmecolumn {
+    display: flex;
+    flex-wrap: wrap;
+    
+    margin-left: 80px;
+    width: 100%;
+    
+}
+
+.aboutmecont{
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.AboutmeText{
+    margin: 50px ;
+    font-size: 20px;
+}    
+
+h2 {
+    text-align: center;
+    font-size: 50px;
+    text-align: left;
+    border-right: 5px solid #868686;
+} 
+
+.aboutmecont h2{
+    width: 20%
+}
