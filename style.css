@@ -73,14 +73,40 @@ h3 {
     font-weight: bolder;
     font-size: 30px;
     background-color: white;
-    opacity: 80%;
-    
-
+    opacity: 90%;
 }
 
-.project2, .project3, .project4, .project5 {
+.project2 {
+    background-image: url('./Assets/ledwall.jpg');
     height: 200px;
-    width: 30%;
+    width: 40%;
     border: 1px solid;
-
 }
+
+.project3 {
+    background-image: url('./Assets/calculator.jpg');
+    height: 200px;
+    width: 40%;
+    border: 1px solid;
+}
+
+.project4 {
+    background-image: url('./Assets/puzzles.jpg');
+    height: 200px;
+    width: 40%;
+    border: 1px solid;
+}
+
+.project5 {
+    background-image: url('./Assets/runbuddy.jpg');
+    height: 200px;
+    width: 40%;
+    border: 1px solid;
+}
+
+
+
+
+
+
+
