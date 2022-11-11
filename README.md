@@ -39,3 +39,13 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 ```
 
+### Deployed URL
+https://miniigrace.github.io/GraceSO-Portfolio-Website/
+![PortfolioSC](https://user-images.githubusercontent.com/112984208/201265985-02c8c59e-e35e-43a1-b63d-0892cde63d87.jpg)
+
+
+
+## Acknowledgements
+* https://w3schools.com/
+* https://developer.mozilla.org/en-US/
+* StackedOverflow
