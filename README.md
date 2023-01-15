@@ -11,7 +11,7 @@ I will spend more time learning about semantic HTML tags, CSS, Javascript, etc t
 * HTML and CSS
 
 ### Deployed URL
-https://miniigrace.github.io/GraceSO-Portfolio-Website/
+https://miniigrace.github.io/MiniGrace-portfolio-website/
 
 ![PortfolioSC](https://user-images.githubusercontent.com/112984208/201265985-02c8c59e-e35e-43a1-b63d-0892cde63d87.jpg)
 
@@ -20,4 +20,4 @@ https://miniigrace.github.io/GraceSO-Portfolio-Website/
 ## Acknowledgements
 * https://w3schools.com/
 * https://developer.mozilla.org/en-US/
-* StackedOverflow
+
