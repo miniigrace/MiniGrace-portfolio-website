@@ -59,8 +59,15 @@ h3 {
     width: 80%;
     text-align: center;
     border-left: 2px solid;
+    font-size: medium;
 }
 
+/* added styles for aboutme-paragraph */
+.aboutme-p {
+    font-size: large;
+}
+
+/* WORK CONTENT STYLE*/
 .project1 {
     background-image: url('./Assets/karaoke.jpg');
     opacity: 80%;
@@ -77,6 +84,15 @@ h3 {
     opacity: 90%;
 }
 
+.project-hellobud {
+    justify-content: center;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    background-color: white;
+    opacity: 90%;
+}
+
 .project2 {
     background-image: url('./Assets/ledwall.jpg');
     height: 200px;
@@ -84,11 +100,13 @@ h3 {
     border: 1px solid;
 }
 
+/* added image for Project 2 */
 .project3 {
-    background-image: url('./Assets/calculator.jpg');
+    background-image: url('./Assets/hellobud.png');
     height: 200px;
     width: 40%;
     border: 1px solid;
+    
 }
 
 .project4 {
@@ -104,10 +122,14 @@ h3 {
     width: 40%;
     border: 1px solid;
 }
+/* END OF WORK CONTENT STYLE*/
 
+/* CONTACT CONTENT STYLE*/
 .nav-bottom {
     justify-content: space-around;
 }
+
+/* MEDIA QUERY*/
  
 @media screen and (max-width: 500px) {
     nav, div {
