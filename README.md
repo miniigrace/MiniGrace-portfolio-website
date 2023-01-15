@@ -11,7 +11,7 @@ I will spend more time learning about semantic HTML tags, CSS, Javascript, etc t
 * HTML and CSS
 
 ### Deployed URL
-[Click here](https://drive.google.com/file/d/1C_kknaxAcDAmRMTs_QzmBK6bKOCjQ997/view](https://miniigrace.github.io/MiniGrace-portfolio-website/) to view the portfolio page
+[Click here](https://miniigrace.github.io/MiniGrace-portfolio-website/) to view the portfolio page
 
 
 ![PortfolioSC](https://user-images.githubusercontent.com/112984208/201265985-02c8c59e-e35e-43a1-b63d-0892cde63d87.jpg)
